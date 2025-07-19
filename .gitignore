@@ -1,0 +1,71 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyo
+*.pyd
+*.env
+.env/
+venv/
+ENV/
+env/
+*.env
+*.venv
+*.egg-info/
+dist/
+build/
+*.egg
+*.log
+*.sqlite3
+*.db
+.DS_Store
+.ipynb_checkpoints/
+# VS Code
+.vscode/
+# macOS
+.DS_Store
+# Jupyter Notebook
+.ipynb_checkpoints/
+# Test and coverage
+.coverage
+htmlcov/
+.tox/
+.nox/
+.pytest_cache/
+# mypy
+.mypy_cache/
+# pipenv
+Pipfile.lock
+# poetry
+poetry.lock
+# pyenv
+.python-version
+# celery
+celerybeat-schedule
+# dotenv
+.env
+.env.*
+# virtualenv
+.venv/
+# Spyder project settings
+.spyderproject
+.spyproject
+# Rope project settings
+.ropeproject/
+# PyCharm
+.idea/
+*.iml
+# Sphinx documentation
+docs/_build/
+# PyInstaller
+*.manifest
+*.spec
+# Unit test / coverage reports
+*.cover
+*.py,cover
+# C extensions
+*.so
+# Windows
+Thumbs.db
