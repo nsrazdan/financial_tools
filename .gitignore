@@ -69,3 +69,5 @@ docs/_build/
 *.so
 # Windows
 Thumbs.db
+# Script logs
+logs/

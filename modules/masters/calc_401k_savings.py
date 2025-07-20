@@ -1,4 +1,4 @@
-# _401k_calculator_module.py
+# calc_401k_savings.py
 
 BASE_401K_LIMIT_2025 = 23_500
 CATCH_UP_50_PLUS = 7_500
